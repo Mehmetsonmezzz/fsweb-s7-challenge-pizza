@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-import Home from "./pages/Home";
-import FormPages from "./pages/FormPages";
+import Home from "./pages/Home/Home";
+import FormPages from "./pages/FormPage/FormPages";
 import CheckOrder from "./pages/Success/CheckOrder";
 
 const App = () => {

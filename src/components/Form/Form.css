@@ -15,21 +15,6 @@
 .pickThickness{
     margin-right: 10rem;
 }
-
-
-    /* .addElement {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        align-items:start;
-        text-align: center;
-      }
-
-.addElement label{
-    margin-right: 5rem;
-}  */
-
-
 .addElement {
    display: flex;
    justify-content:flex-start;
@@ -106,4 +91,9 @@
     background-color: #FDC913 !important;
     height: 3rem !important;
     border: none !important;
+  }
+
+
+  .sizePick{
+    display: block;
   }
