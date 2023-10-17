@@ -3,15 +3,15 @@
     height: 100vh;
 }
 
-img{
+.img{
 
-    width: 100%;
+    padding-left: 35%;
 }
 
 .checkMain {
     display: grid;
     justify-content: center;
-    padding-top: 5%;
+   
 }
 
 .checkText {

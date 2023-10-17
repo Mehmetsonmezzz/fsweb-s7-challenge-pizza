@@ -8,7 +8,7 @@ const CreateOrder = () => {
   return (
     <div>
       <div className="headerDiv">
-        <img src={image} />
+        <img src={image} className="img" />
       </div>
       <div className="mainDiv">
         <div>
